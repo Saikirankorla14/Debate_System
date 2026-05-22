@@ -6,7 +6,7 @@ A Python-based AI debate system where two agents argue opposite sides of any top
 
 ## Features
 
-- Two AI agents argue opposite sides of any topic
+- Two AI agents argue opposite sides of any topic they choose
 - Turn-based debate with configurable rounds (2–5)
 - Neutral judge scores each round on logic, evidence, and persuasion
 - Final verdict declaring a winner
