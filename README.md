@@ -1,6 +1,6 @@
 # Multi-Agent Debate System
 
-A Python-based AI debate system where two agents argue opposite sides of any topic using the **Groq API**, with turn-based rounds, a neutral judge scoring system, and automatic transcript export.
+A Python-based AI debate system where two agents argue opposite sides of any topic using the **Groq API**, with turn-based rounds, a neutral judge scoring system, and automatic transcript export by using groq api.
 
 ---
 
